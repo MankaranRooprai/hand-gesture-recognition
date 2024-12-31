@@ -2,6 +2,8 @@
 
 This project implements a real-time hand gesture recognition system using deep learning. It uses a convolutional neural network (CNN) to classify hand gestures in video frames captured via a webcam. The model is trained on the ASL (American Sign Language) alphabet, with additional classes for space and delete gestures. The project demonstrates the end-to-end pipeline of training, model deployment, and real-time recognition.
 
+![image](https://github.com/user-attachments/assets/5db52b74-1ea6-49e0-8d5b-0ca7a30b46df)
+
 ## Features
 
 - **Real-time Gesture Recognition**: The system captures video from a webcam and detects hand gestures in real-time.
@@ -26,8 +28,6 @@ This project implements a real-time hand gesture recognition system using deep l
    git clone https://github.com/yourusername/hand-gesture-recognition.git
    cd hand-gesture-recognition
    ```
-   
-![image](https://github.com/user-attachments/assets/5db52b74-1ea6-49e0-8d5b-0ca7a30b46df)
 
 ## Create and activate a virtual environment:
 
